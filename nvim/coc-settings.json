@@ -1,0 +1,19 @@
+{
+    "eslint.autoFixOnSave": true,
+    "eslint.enable": true,
+    "eslint.packageManager": "npm",
+    "tsserver.enable": true,
+    "typescript.format.enable": true,
+    "typescript.suggestionActions.enabled": true,
+    "typescript.validate.enable": true,
+
+    "coc.preferences.formatOnType": true,
+    "colors.enable": true,
+    "prettier.tabWidth": 4,
+    "rust-analyzer.diagnostics.enable": true,
+    "inlayHint.enable": true,
+    "cSpell.userWords": [
+      "jsdoc",
+      "yats"
+    ]
+}
