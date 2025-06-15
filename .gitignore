@@ -3,4 +3,6 @@
 !/nvim
 nvim/pack
 !/hypr
+!/alacritty
 !.gitignore
+

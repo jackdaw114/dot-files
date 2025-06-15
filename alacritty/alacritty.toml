@@ -1,0 +1,16 @@
+[general]
+import = [ "/home/fledredge/.config/alacritty/alacritty-theme/themes/autumn.toml" ]
+
+[window]
+opacity=0.9
+
+
+[font]
+normal={family="EnvyCodeR Nerd Font", style="Mono"}
+
+[cursor]
+style={shape="Beam",blinking="On"}
+vi_mode_style={shape="Block",blinking="Off"}
+
+[keyboard]
+bindings=[{key="C",mods="Super",action="ToggleViMode"}]
